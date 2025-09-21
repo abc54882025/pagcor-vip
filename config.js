@@ -1,6 +1,6 @@
 // Cấu hình website 8Qbet
 const websiteConfig = {
-    title: "8Qbet.com Kiểm Tra Độ An Toàn Link Truy Cập",
+    title: "PAGCOR – All-in-One Casino, Slots, Sports, Cockfighting & Fish Game",
     favicon: "asset/images/68b29b5d9a666.png",
     logo: "asset/images/68b29a71536f9.png",
     logo_size: 50,
@@ -10,37 +10,37 @@ const websiteConfig = {
     container_bg_color: "#5a1616",
     marquee_color: "#ffffff",
     footer_image: "asset/images/68b29a2d69d64.jpeg",
-    footer_link: "https://www.93375347.com/",
+    footer_link: "https://6pagcor.ph",
     banners: [
         "asset/images/68b29ac2d3515.jpg",
         "asset/images/68b29ace6e010.jpg",
         "asset/images/68b29ad604fe7.jpg",
         "asset/images/68b29addeda4e.jpg"
     ],
-    marquee: "Chào mừng đến với 8Qbet.com – Ưu đãi nạp đầu, Ngày hội thành viên hàng tháng, Cấp độ VIP đặc biệt, Thưởng giới thiệu bạn bè, Nạp rút tiền siêu nhanh – Bảo mật an toàn, không rủi ro!",
+    marquee: "PAGCOR – All-in-One Casino, Slots, Sports, Cockfighting & Fish Game",
     links: [
         {
             name: "Link1",
             showUrl: "NHẬN QUÀ NGAY",
-            jumpUrl: "https://www.93375347.com/",
+            jumpUrl: "https://6pagcor.ph/",
             icon: "asset/images/8q.png"
         },
         {
             name: "Link2",
             showUrl: "ĐÁNG TIN CẬY",
-            jumpUrl: "https://www.93375347.com/",
+            jumpUrl: "https://6pagcor.ph/",
             icon: "asset/images/8q.png"
         },
         {
             name: "Link3",
             showUrl: "BẢO MẬT CAO",
-            jumpUrl: "https://www.93375347.com/",
+            jumpUrl: "https://6pagcor.ph/",
             icon: "asset/images/8q.png"
         },
         {
             name: "Link4",
             showUrl: "RÚT TIỀN NHANH",
-            jumpUrl: "https://www.93375347.com/",
+            jumpUrl: "https://6pagcor.ph/",
             icon: "asset/images/8q.png"
         }
     ],
