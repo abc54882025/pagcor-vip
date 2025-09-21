@@ -1,4 +1,4 @@
-// Cấu hình website 8Qbet
+// Cấu hình website PAGCOR
 const websiteConfig = {
     title: "PAGCOR – All-in-One Casino, Slots, Sports, Cockfighting & Fish Game",
     favicon: "asset/images/68b29b5d9a666.png",
@@ -44,8 +44,8 @@ const websiteConfig = {
             icon: "asset/images/8q.png"
         }
     ],
-    appUrl: "https://www.93375347.com/down",
-    serviceUrl: "https://xzjhsn5po7.lyau1vg8.com/chatwindow.aspx?siteId=65002665&planId=54c0e15d-3356-4460-abe0-648cd6d0bbee"
+    appUrl: "https://6pagcor.ph",
+    serviceUrl: "https://6pagcor.ph"
 };
 
 // Hàm tạo thời gian phản hồi ngẫu nhiên
